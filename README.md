@@ -1,1 +1,2 @@
-# TestingV02
+# FinalProjectV02 Digital Terracatta
+# Gabe Carlson
